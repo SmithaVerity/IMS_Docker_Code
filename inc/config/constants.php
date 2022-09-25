@@ -11,10 +11,10 @@
 	define('DB_HOST', 'imsdb');
 	
 	// DB user
-	define('DB_USER', 'ubuntu');
+	define('DB_USER', 'root');
 	
 	// DB password
-	define('DB_PASSWORD', 'Ubuntu@123');
+	define('DB_PASSWORD', 'admin');
 	
 	// DB name
 	define('DB_NAME', 'shop_inventory');
